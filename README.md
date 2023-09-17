@@ -1,22 +1,24 @@
-Hi, there
+Hi 👋 My name is Anna Gurina
+============================
 
-О себе
+A beginner QA Engineer
+----------------------
 
-Инструменты, практики
+Open for a job or paid internship in a modern innovative company. Looking forward to assuring the quality of your product!
 
-Ссылки на CV
-
-Контакты: email, telegram, linkedIn
-
-Ссылка на созданные Issues. Можно залинковать Hexlet Friends,
-пример - https://friends.hexlet.io/contributors/fey/issues
-
-Если вы тестировали публичные сервисы-проекты-сайты, добавьте ссылку на артефакты (багрепорты, скриншоты) тестирования
-
-Можно сгенерировать профиль с помощью https://www.profileme.dev/
-
-В профиле должны стоять галочки с показом деятельности в приватных
-репозиториях и галочка Activity Overview
-
-![image](https://github.com/AnnaGurina/AnnaGurina/assets/62752547/ba7d9b67-282e-48a6-bad0-1876138526b2)
-
+*   🌍  I'm based in St. Petersburg <-> Middle East### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+                    </p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                      <a href="https://www.github.com/AnnaGurina" target="_blank" rel="noreferrer">
+                    <picture>
+                    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+                    </picture>
+                    </a></p>### Badges<b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/AnnaGurina/qa-engineer-project-84" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnnaGurina&repo=qa-engineer-project-84&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/AnnaGurina/qa-engineer-project-85" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=AnnaGurina&repo=qa-engineer-project-85&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
