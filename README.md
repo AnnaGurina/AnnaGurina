@@ -11,7 +11,7 @@ Open for a job or paid internship in a modern innovative company. Looking forwar
 
 ### CV
 
-https://cv.hexlet.io/ru/resumes/2867
+https://cv.hexlet.io/ru/resumes/2867  
 https://career.habr.com/annagu
 
 ### Skills
