@@ -9,6 +9,11 @@ Open for a job or paid internship in a modern innovative company. Looking forwar
 * 🌍  I'm based in St. Petersburg <-> Middle East
 * ✉️  You can contact me at [anna.gurina.spb@gmail.com](mailto:anna.gurina.spb@gmail.com)
 
+### CV
+
+https://cv.hexlet.io/ru/resumes/2867
+https://career.habr.com/annagu
+
 ### Skills
 
 
