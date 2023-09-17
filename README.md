@@ -30,11 +30,8 @@ Git
 Github  
 SQL  
 HTTP/HTTP API  
-Workforce Management
-Transport Management
-Online booking systems 
-Advanced MS Office (Word, Excel, Power Point, Outlook)
-English C2
+English C2  
+Workforce Management / Transport Management / Online booking systems  
 
 ### Socials
 
