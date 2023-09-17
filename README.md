@@ -6,7 +6,7 @@ A beginner QA Engineer
 
 Open for a job or paid internship in a modern innovative company. Looking forward to assuring the quality of your product!
 
-* 🌍  I'm based in St. Petersburg <-> Middle East
+* 🌍  I'm based in St. Petersburg, Russia <-> Middle East
 * ✉️  You can contact me at [anna.gurina.spb@gmail.com](mailto:anna.gurina.spb@gmail.com)
 
 ### CV
